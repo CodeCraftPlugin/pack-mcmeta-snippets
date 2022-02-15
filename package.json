@@ -1,0 +1,32 @@
+{
+    "name": "pack-mcmeta-snippets",
+    "displayName": "pack.mcmeta-snippets",
+    "description": "snippets for pack.mcmeta",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "publisher": "maskedcoder",
+    "author": {
+        "name": "Masked Coder"
+    },
+    "keywords": [
+        "Minecraft",
+        "Pack.mcmeta",
+        "Minecraft Datapack"
+    ],
+    "license": "GPLv3",
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    },
+    "dependencies": {
+        "vsce": "^2.6.7"
+    }
+}
