@@ -1,8 +1,8 @@
 {
     "name": "pack-mcmeta-snippets",
-    "displayName": "pack.mcmeta-snippets",
+    "displayName": "pack.mcmeta Snippets",
     "description": "snippets for pack.mcmeta",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.18.0"
     },
